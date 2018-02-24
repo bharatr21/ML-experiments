@@ -1,7 +1,7 @@
 # ML-experiments
 A few basic neural networks and my experiments in deep learning
 ## Convolutional Neural Networks
-One basic shallow Convolutional Neural Network (CNN) has been implemented and tried on the MNIST and CIFAR-10 Datasets
+One Convolutional Neural Network (CNN) has been implemented and tried on the MNIST and CIFAR-10 Datasets
 with the results:- 
 * MNIST Dataset - 98.26% Accuracy and 98.24% F-Measure
 * CIFAR-10 Dataset 
